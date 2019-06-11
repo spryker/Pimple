@@ -2,6 +2,8 @@
 
 Pimple is a container module for the Pimple library. Pimple provides a simple dependency injection container. This module has a central role in managing Pimple dependencies and supports better decoupling between modules.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
